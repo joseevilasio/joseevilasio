@@ -22,12 +22,9 @@ Here are some ideas to get you started:
 </div>
 
 ##
-<div>
-  
-<a href="https://instagram.com/___josejunior" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joseevilasio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/___josejunior" target="_blank"><img src="https://img.shields.io/badge/josejunior-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto:josejuniorcn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+<div> 
+  
+ <a href="https://twitter.com/___josejunior"><img alt="Twitter" src="https://img.shields.io/badge/twitter-José%20Junior-brightgreen?style=for-the-badge&logo=twitter"></a>  <a href="https://www.linkedin.com/in/joseevilasio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-José%20Junior-brightgreen?style=for-the-badge&logo=linkedin"></a>
   
 </div>
