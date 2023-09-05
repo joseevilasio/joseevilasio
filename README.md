@@ -1,22 +1,15 @@
 ### Hello, World! 👋🌎
 
-<!--
-**joseevilasio/joseevilasio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently in the midst of a career transition to the technology field with a focus on Back-End and Data Science, driven by my enthusiasm for the data field due to my related background.
 
-Here are some ideas to get you started:
+I've been actively studying development in back-end/web and data sciences, including Python and some web frameworks like Django, Flask, and FastAPI, as well as data-related frameworks like Pandas, and even a bit of C/C++.
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's have a conversation and collaborate on a project together!
+
+
 
 <div align="center">
-  <a href="https://github.com/joseevilasio">
+  <a href="https://joseevilasio.github.io/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseevilasio&show_icons=true&theme=vue-dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseevilasio&layout=compact&langs_count=7&theme=vue-dark"/>  
 </div>
