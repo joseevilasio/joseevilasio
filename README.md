@@ -1,6 +1,6 @@
 ### Hello, World! 👋🌎
 
-I am currently in the midst of a career transition to the technology field with a focus on Back-End and Data Science, driven by my enthusiasm for the data field due to my related background.
+I am currently in the midst of a career transition to the technology field with a focus on Back-End and Data Science.
 
 I've been actively studying development in back-end/web and data sciences, including Python and some web frameworks like Django, Flask, and FastAPI, as well as data-related frameworks like Pandas, and even a bit of C/C++.
 
