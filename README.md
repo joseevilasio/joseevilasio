@@ -3,7 +3,7 @@
 I am currently in the midst of a career transition to the technology field with a focus on Back-End and Data Science.
 Let's have a conversation and collaborate on a project together!
 
-I survived 'piscine' #8 at 42 School Porto, soon to be officially a student. 🏊🏊🏊
+I survived 'piscine' #8 at 42 School Porto. 🏊🏊🏊
 
 
 <div align="center">
