@@ -17,6 +17,5 @@ I survived 'piscine' #8 at 42 School Porto. 🏊🏊🏊
 <div align="center">
   
 <a href="https://www.linkedin.com/in/joseevilasio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-José%20Junior-brightgreen?style=for-the-badge&logo=linkedin"></a> 
-<a href="https://dev.to/josejunior"><img alt="DevTo" src="https://img.shields.io/badge/Devto-José%20Junior-brightgreen?style=for-the-badge&logo=dev.to"></a>
   
 </div>
