@@ -25,7 +25,7 @@
 
 ### 📂 Porfolio
 
-- You can view my projects by clicking here.
+- Here’s where the magic happens — check out my projects!
 
 ---
 
