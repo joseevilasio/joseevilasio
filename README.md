@@ -1,9 +1,39 @@
 ### Hello, World! 👋🌎
 
-I am currently in the midst of a career transition to the technology field with a focus on Back-End and Data Science.
-Let's have a conversation and collaborate on a project together!
+---
 
-I survived 'piscine' #8 at 42 School Porto. 🏊🏊🏊
+### 👨‍💻 About Me
+
+- 🎓 I'm currently studying **Software Engineering** at 42 Porto.
+- 🔄 Transitioning from a background in **Business Administration and Operations Management**.
+- 💼 Currently working as an **Operations Data Specialist** in the mobility sector.
+- 🧠 I enjoy solving problems with **Python**, **C/C++**, and **Power BI**.
+- 🚀 Looking to grow in **back-end development**, **embedded systems**, and **data science**.
+- 💬 Always open to collaboration and new challenges — let's connect!
+
+---
+
+### 🧰 Tech Stack
+
+- Languages: C, C++, Python, SQL, DAX
+- Operative Systems: Linux, Windows
+- Databases: PostgreSQL, MariaDB, MongoDB
+- Spreadsheets: Microsoft Excel, Google Sheets
+- Visualizations: PowerBI, PowerPoint, Figma
+- Others: Shell Scripting, Docker
+---
+
+### 📂 Porfolio
+
+- You can view my projects by clicking here.
+
+---
+
+### 📫 Connect with me
+
+<a href="https://www.linkedin.com/in/jose---junior/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-José%20Junior-brightgreen?style=for-the-badge&logo=linkedin"></a> 
+
+---
 
 
 <div align="center">
@@ -13,9 +43,3 @@ I survived 'piscine' #8 at 42 School Porto. 🏊🏊🏊
 </div>
 
 ##
-
-<div align="center">
-  
-<a href="https://www.linkedin.com/in/joseevilasio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-José%20Junior-brightgreen?style=for-the-badge&logo=linkedin"></a> 
-  
-</div>
