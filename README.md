@@ -43,3 +43,13 @@
 </div>
 
 ##
+
+<p align="center">
+    <img alt="Ze's visitors" src="https://komarev.com/ghpvc/?username=joseevilasio&color=16b8a7&style=flat&label=visitors" />
+</p>
+
+<div align="center">
+
+"So long, and thanks for all the fish" 🐬
+
+</div>
