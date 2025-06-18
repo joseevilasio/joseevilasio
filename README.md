@@ -23,7 +23,7 @@
 - Others: Shell Scripting, Docker
 ---
 
-### 📂 Porfolio
+### 📂 Projects
 
 - Here’s where the magic happens — check out my projects!
 
