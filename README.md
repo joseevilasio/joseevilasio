@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently studying **Software Engineering** at 42 Porto.
+- 🎓 I'm currently studying **Software Engineering** at [42 Porto](https://www.42porto.com/pt/).
 - 🔄 Transitioning from a background in **Business Administration and Operations Management**.
 - 💼 Currently working as an **Operations Data Specialist** in the mobility sector.
 - 🧠 I enjoy solving problems with **Python**, **C/C++**, and **Power BI**.
