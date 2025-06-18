@@ -25,7 +25,7 @@
 
 ### 📂 Projects
 
-- Here’s where the magic happens — check out my projects!
+- Here’s where the magic happens — [check out my projects!](https://github.com/joseevilasio/joseevilasio/blob/main/Portfolio.md)
 
 ---
 
