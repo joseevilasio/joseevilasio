@@ -9,11 +9,13 @@ Welcome to my technical portfolio! Below are some of the projects that best repr
 | Project | Tools | Topics Covered | Description |
 |---|---|---|---|
 | **RANK 05** |
-| [C++ Modules](https://github.com/joseevilasio/piscine_cpp_42) | C++, Makefile | OOP fundamentals, classes, inheritance, polymorphism | Introductory project to Object-Oriented Programming using the C++98 standard. Covers the main pillars of OOP in a structured and progressive way. |
+| [Webserv](https://github.com/joseevilasio/webserv_42) | C++, Makefile | HTTP protocol, sockets, multithreading, request parsing | A fully functional HTTP server written from scratch in C++. Implements GET, POST and DELETE methods, CGI handling, and support for multiple clients using poll(). Inspired by NGINX behavior and RFC 2616. |
+| [Inception](https://github.com/joseevilasio/inception_42) | Docker, NGINX, MariaDB, WordPress, Redis | Containerization, networking, system configuration | Built a mini infrastructure using Docker and Docker Compose to host multiple services (WordPress, MariaDB, NGINX, Redis) in isolated containers. Focused on network communication, volumes, and security configuration. |
+| [C++ Modules](https://github.com/joseevilasio/piscine_cpp_42) | C++, Makefile | OOP fundamentals, templates, containers, STL | Introductory project to Object-Oriented Programming using the C++98 standard. Covers the main pillars of OOP in a structured and progressive way. |
 | **RANK 04** |
 | [C++ Modules](https://github.com/joseevilasio/piscine_cpp_42) | C++, Makefile | OOP fundamentals, classes, inheritance, polymorphism | Introductory project to Object-Oriented Programming using the C++98 standard. Covers the main pillars of OOP in a structured and progressive way. |
 | [cub3D](https://github.com/joseevilasio/cub3d_42) | C, MiniLibX, Makefile | 2D graphics, raycasting, textures, basic game engine | A 3D maze game inspired by Wolfenstein 3D. We implemented a raycasting engine with wall collisions, sprite rendering, and interactive elements like doors and a minimap. Built in collaboration with [Mariana Morais](https://github.com/marianaobmorais). |
-| [NetPractice](https://github.com/joseevilasio) | ? | ? | ? |
+| [NetPractice](https://github.com/joseevilasio) | Network Simulator | Subnetting, routing, IP configuration | An interactive learning project focused on diagnosing and solving virtual network configurations. Designed to build intuition around IP addressing, routing tables, and network troubleshooting. |
 | **RANK 03** |
 | [minishell](https://github.com/joseevilasio/minishell_42) | C, Makefile | Shell parsing, token handling, process management, piping | A basic shell built from scratch, capable of handling commands, redirections, pipes, and heredocs. Emulates core features of Bash. Collaborated with [Mariana Morais](https://github.com/marianaobmorais). |
 | [philosophers](https://github.com/joseevilasio/philosophers_42) | C, Makefile | Multithreading, synchronization, deadlock avoidance | Implementation of the classic Dining Philosophers problem using threads and mutexes. Focused on concurrency, resource sharing, and timing control. |
